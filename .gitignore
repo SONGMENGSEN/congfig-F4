@@ -7,6 +7,7 @@
 *.axf
 *.exe
 *.pdb
+*.crf
 *.idb
 *.ilk
 *.old
@@ -44,3 +45,6 @@ tags
 .idea
 CMakeLists.txt
 cmake-build-debug
+/LL/config/CONFIG/MDK-ARM/CONFIG.uvguix.SONG
+/HAL/config/CONFIG/MDK-ARM/*.uvoptx
+/HAL/config/CONFIG/MDK-ARM/*.uvprojx
