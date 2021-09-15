@@ -12,6 +12,8 @@
 *.old
 *.ioc
 *.mxproject
+*.htm
+*.SONG
 *.uvprojx
 *.uvoptx
 build
